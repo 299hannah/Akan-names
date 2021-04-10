@@ -1,4 +1,4 @@
-# Portfolio
+# Akan Names
 ### Author: Mwangi Hannah Wambui
 ## Description
 This project is about Akan Names.
