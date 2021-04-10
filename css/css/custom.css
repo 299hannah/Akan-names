@@ -1,22 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Love+Ya+Like+A+Sister&display=swap');
-.credentials{
+
+.credentials {
 
     font-family: 'comic';
     padding: 50px;
     background: linear-gradient(135deg, #71b7e6, #9b9b9b);
 }
-.name{
+
+.name {
     text-align: center;
     font-family: 'Love Ya Like A Sister';
     font-size: 35px;
     font-weight: 500;
 }
-.p{
+
+.p {
     text-align: center;
-    font-size: 20px;  
+    font-size: 20px;
 }
-.boxes{
-  
+
+.boxes {
+
     /* text-align: center; */
     font-size: 18px;
     width: 100%;
@@ -25,8 +29,8 @@
     padding: 25px 30px;
     border-radius: 5px;
 }
-.boxes .details1{
+
+.boxes .details1 {
     align-items: center;
 
 }
-
