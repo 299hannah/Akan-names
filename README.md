@@ -19,6 +19,7 @@ This will clone the repositoty into your local folder
  CSS
  Javascript
  Git
+ 
 ### Live Site
 View [live](https://299hannah.github.io/Akan-names/)
 Licence
